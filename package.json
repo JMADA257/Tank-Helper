@@ -1,0 +1,22 @@
+{
+  "name": "tank-helper",
+  "version": "1.0.0",
+  "description": "This will be a react native project, primarly for military members in the tank community. My goal with this is to help users who are going to tank school figure out AFVID easier. I compare it to my time in tank school and learning what key notes to look for on military vehicles took me a long time. The mvp for this project will be to have multiple vehicles from multiple countries with pictures that will show the key attributes for those vehicles. Also i would like to add a quizx section that will mock what the military uses to pass afvid courses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js",
+    "startTest": "cd client && npm run dev",
+    "watch": "npx nodemon server/server.js",
+    "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm run dev\"",
+    "install": "cd server && npm i && cd ../client && npm i",
+    "seed": "cd server && npm run seed",
+    "build": "cd client && npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-native": "^0.72.7"
+  }
+}
