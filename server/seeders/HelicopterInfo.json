@@ -1,0 +1,152 @@
+[
+  {
+    "Name": "AH-64 Apache",
+    "Country": "United States of America",
+    "PrimaryUse": "Attack"
+  },
+  {
+    "Name": "Mi-24 Hind",
+    "Country": "Russia",
+    "PrimaryUse": "Attack"
+  },
+  {
+    "Name": "Eurocopter Tiger",
+    "Country": "Germany",
+    "PrimaryUse": "Attack"
+  },
+  {
+    "Name": "Ka-52 Alligator",
+    "Country": "Russia",
+    "PrimaryUse": "Attack"
+  },
+  {
+    "Name": "A129 Mangusta",
+    "Country": "Italy",
+    "PrimaryUse": "Attack"
+  },
+  {
+    "Name": "Boeing AH-6 Little Bird",
+    "Country": "United States of America",
+    "PrimaryUse": "Reconnaissance"
+  },
+  {
+    "Name": "OH-58 Kiowa",
+    "Country": "United States of America",
+    "PrimaryUse": "Reconnaissance"
+  },
+  {
+    "Name": "AS565 Panther",
+    "Country": "France",
+    "PrimaryUse": "Anti-Submarine Warfare"
+  },
+  {
+    "Name": "NH90 NFH",
+    "Country": "Germany",
+    "PrimaryUse": "Anti-Submarine Warfare"
+  },
+  {
+    "Name": "Westland Lynx",
+    "Country": "United Kingdom",
+    "PrimaryUse": "Anti-Submarine Warfare"
+  },
+  {
+    "Name": "UH-60 Black Hawk",
+    "Country": "United States of America",
+    "PrimaryUse": "Utility"
+  },
+  {
+    "Name": "Mi-17 Hip",
+    "Country": "Russia",
+    "PrimaryUse": "Transport"
+  },
+  {
+    "Name": "CH-47 Chinook",
+    "Country": "United States of America",
+    "PrimaryUse": "Transport"
+  },
+  {
+    "Name": "AW101 Merlin",
+    "Country": "United Kingdom",
+    "PrimaryUse": "Transport"
+  },
+  {
+    "Name": "Kamov Ka-32",
+    "Country": "Russia",
+    "PrimaryUse": "Search and Rescue"
+  },
+  {
+    "Name": "Bell 412",
+    "Country": "United States of America",
+    "PrimaryUse": "Search and Rescue"
+  },
+  {
+    "Name": "Mi-26 Halo",
+    "Country": "Russia",
+    "PrimaryUse": "Heavy Lift"
+  },
+  {
+    "Name": "CH-53 Sea Stallion",
+    "Country": "United States of America",
+    "PrimaryUse": "Heavy Lift"
+  },
+  {
+    "Name": "AS350 Ecureuil",
+    "Country": "France",
+    "PrimaryUse": "Training"
+  },
+  {
+    "Name": "AgustaWestland AW119",
+    "Country": "Italy",
+    "PrimaryUse": "Training"
+  },
+  {
+    "Name": "Z-10 WZ-10",
+    "Country": "China",
+    "PrimaryUse": "Attack"
+  },
+  {
+    "Name": "AW139",
+    "Country": "Italy",
+    "PrimaryUse": "Search and Rescue"
+  },
+  {
+    "Name": "Mi-28 Havoc",
+    "Country": "Russia",
+    "PrimaryUse": "Attack"
+  },
+  {
+    "Name": "KAI Surion",
+    "Country": "South Korea",
+    "PrimaryUse": "Utility"
+  },
+  {
+    "Name": "AH-1Z Viper",
+    "Country": "United States of America",
+    "PrimaryUse": "Attack"
+  },
+  {
+    "Name": "EC725 Caracal",
+    "Country": "France",
+    "PrimaryUse": "Transport"
+  },
+  {
+    "Name": "MD 500 Defender",
+    "Country": "United States of America",
+    "PrimaryUse": "Reconnaissance"
+  },
+  {
+    "Name": "K-MAX",
+    "Country": "United States of America",
+    "PrimaryUse": "Unmanned Cargo"
+  },
+  {
+    "Name": "Mi-8 Hip",
+    "Country": "Russia",
+    "PrimaryUse": "Transport"
+  },
+  {
+    "Name": "NHIndustries NH90 TTH",
+    "Country": "France",
+    "PrimaryUse": "Transport"
+  }
+]

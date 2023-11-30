@@ -1,0 +1,152 @@
+[
+    {
+      "Name": "M1A1 Abrams",
+      "Caliber": "120MM",
+      "Country": "United States of America"
+    },
+    {
+      "Name": "Leopard 2A7",
+      "Caliber": "120MM",
+      "Country": "Germany"
+    },
+    {
+      "Name": "Challenger 2",
+      "Caliber": "120MM",
+      "Country": "United Kingdom"
+    },
+    {
+      "Name": "Type 99A2",
+      "Caliber": "125MM",
+      "Country": "China"
+    },
+    {
+      "Name": "T-14 Armata",
+      "Caliber": "125MM",
+      "Country": "Russia"
+    },
+    {
+      "Name": "AMX Leclerc",
+      "Caliber": "120MM",
+      "Country": "France"
+    },
+    {
+      "Name": "K2 Black Panther",
+      "Caliber": "120MM",
+      "Country": "South Korea"
+    },
+    {
+      "Name": "Altay",
+      "Caliber": "120MM",
+      "Country": "Turkey"
+    },
+    {
+      "Name": "Type 10",
+      "Caliber": "120MM",
+      "Country": "Japan"
+    },
+    {
+      "Name": "T-90MS",
+      "Caliber": "125MM",
+      "Country": "Russia"
+    },
+    {
+      "Name": "Merkava Mk 4",
+      "Caliber": "120MM",
+      "Country": "Israel"
+    },
+    {
+      "Name": "Karrar",
+      "Caliber": "125MM",
+      "Country": "Iran"
+    },
+    {
+      "Name": "Stridsvagn 122",
+      "Caliber": "120MM",
+      "Country": "Sweden"
+    },
+    {
+      "Name": "Type 96",
+      "Caliber": "120MM",
+      "Country": "Japan"
+    },
+    {
+      "Name": "Sabalan",
+      "Caliber": "105MM",
+      "Country": "Iran"
+    },
+    {
+      "Name": "Leclerc XLR",
+      "Caliber": "140MM",
+      "Country": "France"
+    },
+    {
+      "Name": "C1 Ariete",
+      "Caliber": "120MM",
+      "Country": "Italy"
+    },
+    {
+      "Name": "K1A1",
+      "Caliber": "120MM",
+      "Country": "South Korea"
+    },
+    {
+      "Name": "PL-01",
+      "Caliber": "105MM",
+      "Country": "Poland"
+    },
+    {
+      "Name": "Type 90",
+      "Caliber": "120MM",
+      "Country": "Japan"
+    },
+    {
+      "Name": "M-84AS",
+      "Caliber": "125MM",
+      "Country": "Croatia"
+    },
+    {
+      "Name": "T-72B3",
+      "Caliber": "125MM",
+      "Country": "Russia"
+    },
+    {
+      "Name": "PT-91 Twardy",
+      "Caliber": "125MM",
+      "Country": "Poland"
+    },
+    {
+      "Name": "Al-Khalid",
+      "Caliber": "125MM",
+      "Country": "Pakistan"
+    },
+    {
+      "Name": "Type 96B",
+      "Caliber": "125MM",
+      "Country": "China"
+    },
+    {
+      "Name": "Leopard 2SG",
+      "Caliber": "120MM",
+      "Country": "Singapore"
+    },
+    {
+      "Name": "M-84AS1",
+      "Caliber": "125MM",
+      "Country": "Serbia"
+    },
+    {
+      "Name": "Karrar-2",
+      "Caliber": "125MM",
+      "Country": "Iran"
+    },
+    {
+      "Name": "VT-4",
+      "Caliber": "125MM",
+      "Country": "China"
+    },
+    {
+      "Name": "Type 15",
+      "Caliber": "105MM",
+      "Country": "China"
+    }
+  ]
