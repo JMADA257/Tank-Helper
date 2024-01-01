@@ -1,12 +1,18 @@
 import React from "react";
+import { Text, View } from "react-native";
 
-function HomePage() {
+const YourApp = () => {
   return (
-    <div>
-      This will be the home page, will be using react native currently looking
-      more into it.
-    </div>
+    <View
+      style={{
+        flex: 1,
+        justifyContent: "center",
+        alignItems: "center",
+      }}
+    >
+      <Text>Try editing me! 🎉</Text>
+    </View>
   );
-}
+};
 
-export default HomePage;
+export default YourApp;
